@@ -5,5 +5,7 @@ uptime -p: Displays the uptime of the system
 who -H -a: Displays the recent login information
 TZ: Displays the continents
 Tz=India/Mumbai date: Displays the date & time
-cal -j: displays the current month’s calender 9.cal -m, cal -s: Displays different forms of calender formats
-history: Displays the recently used commands 11.!!: Rerun the most recent command
+cal -j: displays the current month’s calender 
+cal -m, cal -s: Displays different forms of calender formats
+history: Displays the recently used commands 
+!!: Rerun the most recent command
