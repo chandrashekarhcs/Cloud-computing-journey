@@ -1,0 +1,9 @@
+man man: Man is the system’s manual pager
+whoa followed by tab: whoami - Displays the current username/user
+hostname -s: Displays the shortened version of the host name
+uptime -p: Displays the uptime of the system
+who -H -a: Displays the recent login information
+TZ: Displays the continents
+Tz=India/Mumbai date: Displays the date & time
+cal -j: displays the current month’s calender 9.cal -m, cal -s: Displays different forms of calender formats
+history: Displays the recently used commands 11.!!: Rerun the most recent command
